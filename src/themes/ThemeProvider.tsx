@@ -1,5 +1,5 @@
 import React, { createContext, useContext, useMemo, useState } from "react";
-import { getTheme } from "../../assets/themes";
+import { getTheme } from "../../src/themes";
 
 type Scheme = "light" | "dark";
 type Ctx = {

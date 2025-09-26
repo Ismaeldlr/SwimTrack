@@ -1,5 +1,5 @@
 import { Text, TouchableOpacity, View } from "react-native";
-import { useTheme } from "../../assets/themes/ThemeProvider";
+import { useTheme } from "../../src/themes/ThemeProvider";
 
 
 export default function Account() {

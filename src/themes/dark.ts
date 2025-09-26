@@ -29,7 +29,7 @@ export const darkTheme = {
     // Floating center button
     fabBackground: "rgba(59, 131, 246, 1)",  // blue-500 @ 25%
     fabBackgroundActive: "#60A5FA",
-    fabIcon: "#60A5FA",
+    fabIcon: "#ffffffff",
     fabIconActive: "#0B1220",
 
     // Inputs

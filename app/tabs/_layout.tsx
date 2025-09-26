@@ -2,7 +2,7 @@ import { Ionicons } from "@expo/vector-icons";
 import type { BottomTabBarButtonProps } from "@react-navigation/bottom-tabs";
 import { Tabs } from "expo-router";
 import { Platform, StyleSheet, Text, TouchableOpacity, View } from "react-native";
-import { useTheme } from "../../assets/themes/ThemeProvider";
+import { useTheme } from "../../src/themes/ThemeProvider";
 
 export default function TabsLayout() {
   const { theme } = useTheme();

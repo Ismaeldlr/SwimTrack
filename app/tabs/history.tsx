@@ -1,5 +1,5 @@
 import { Text, View } from "react-native";
-import { useTheme } from "../../assets/themes/ThemeProvider";
+import { useTheme } from "../../src/themes/ThemeProvider";
 
 
 

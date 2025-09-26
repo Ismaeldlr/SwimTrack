@@ -44,7 +44,7 @@ Typing sets in notes is slow. Generic fitness apps don’t understand intervals,
 
 ## Install (dev)
 ```bash
-git clone <repo> && cd swimtrack
+git clone https://github.com/Ismaeldlr/SwimTrack.git && cd SwimTrack
 npm install
-npm start
+npx expo start
 # press i for iOS or a for Android

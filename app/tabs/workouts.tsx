@@ -105,8 +105,8 @@ export default function Workouts() {
         <TouchableOpacity
           activeOpacity={0.9}
           onPress={() => {
-            // TODO: push to questionnaire screen
-            // router.push("/plan/quiz");
+
+            router.push("/quiz");
           }}
           style={{
             alignSelf: "flex-start",
